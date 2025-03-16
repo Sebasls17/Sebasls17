@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Seb
+- 👋 Hi, I’m Sebastian.
 - 👀 I’m interested in coding, connecting and learning as much as possible. 
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on front-end projects.
