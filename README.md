@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sebastian.
-- 👀 I’m interested in coding, connecting and learning as much as possible. 
+- 👀 I’m interested in coding, connecting and learning as much as possible about all of this. 
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on front-end projects.
 - 📫 How to reach me : via email please.
