@@ -18,11 +18,11 @@
 
 - 🔭 I’m currently working on some personal projects.
   
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript.
   
-- 👯 I’m looking to collaborate on projects (especially Front-End at the moment)
+- 👯 I’m looking to collaborate on projects (especially Front-End at the moment).
   
-- 💬 Ask me about HTML, CSS, JavaScript
+- 💬 Ask me about HTML, CSS, JavaScript.
   
 - ⚡ Fun fact:I used to be a music producer.
 
