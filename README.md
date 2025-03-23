@@ -52,7 +52,7 @@
 <br>
   <br>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sebasls17&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Seb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sebasls17&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 | ![Seb's github stats](https://github-readme-stats.vercel.app/api?username=Sebasls17&show_icons=true&theme=aura) | ![Seb's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sebasls17&theme=modern-lilac) |
 | --- | --- |
