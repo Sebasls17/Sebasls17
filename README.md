@@ -56,7 +56,7 @@
 
 | ![Seb's github stats](https://github-readme-stats.vercel.app/api?username=Sebasls17&show_icons=true&theme=aura) | ![Seb's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sebasls17&theme=modern-lilac) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasls17&theme=aura) | ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sebasls17&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=aura) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasls17&theme=aura) | ![Github Stats](https://github-readme-stats.vercel.app/api?username=Seb's&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=aura) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=omni)
 
