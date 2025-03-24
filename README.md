@@ -54,7 +54,7 @@
   
 [![Seb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sebasls17&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-| ![Seb's github stats](https://github-readme-stats.vercel.app/api?username=Sebasls17&show_icons=true&theme=aura) | ![Seb's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sebasls17&theme=modern-lilac) |
+| ![Seb's github stats](https://github-readme-stats.vercel.app/api?username=Sebasls17&show_icons=true&theme=aura) | [![GitHub Streak](https://streak-stats.demolab.com?user=Sebasls17&theme=modern-lilac&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasls17&theme=aura) | ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sebasls17&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=aura) |
 
