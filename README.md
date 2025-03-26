@@ -2,7 +2,7 @@
     <img width="200" src="https://imgcdn.stablediffusionweb.com/2024/4/21/ef5c1523-2585-4e05-8a46-76391f68f5c9.jpg">
 </p>
 
-<h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Greetings Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -54,7 +54,7 @@
   
 [![Seb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sebasls17&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-| ![Seb's github stats](https://github-readme-stats.vercel.app/api?username=Sebasls17&show_icons=true&theme=aura) | [![GitHub Streak](https://streak-stats.demolab.com?user=Sebasls17&theme=modern-lilac&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |
+| ![Seb's github stats](https://github-readme-stats.vercel.app/api?username=Sebasls17&show_icons=true&theme=aura) | [![Seb's GitHub Streak](https://streak-stats.demolab.com?user=Sebasls17&theme=modern-lilac&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasls17&theme=aura) | ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sebasls17&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=aura) |
 
