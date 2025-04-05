@@ -12,6 +12,12 @@
 <div size='20px'> Hi! My name is Seb. Thanks for taking the time to view my GitHub Profile :smile: 
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/Sebasls17/Sebasls17/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2> About Me </h2>
 
 <img width="33%" align="right" alt="Github" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZsMDNpN245eHRweDVxOGNudno0Njl5djByaDZ3djk0YTQ5OGZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
@@ -58,12 +64,21 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasls17&theme=aura) | ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sebasls17&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=aura) |
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/4gf00duvznj13ax1nj862zunl">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=4gf00duvznj13ax1nj862zunl&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=omni)
 
 
 <br>
 
-
 -----
 
-Last Edited on: 23/03/2025
+Last Edited on: 05/04/2025
