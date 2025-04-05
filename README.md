@@ -20,8 +20,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sebasls17/Sebasls17/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 ###
 
 <h2> About Me </h2>
