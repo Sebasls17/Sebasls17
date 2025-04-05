@@ -1,7 +1,3 @@
-<p align="center">
-    <img width="200" src="https://imgcdn.stablediffusionweb.com/2024/4/21/ef5c1523-2585-4e05-8a46-76391f68f5c9.jpg">
-</p>
-
 <h1> Greetings Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
