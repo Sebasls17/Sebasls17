@@ -24,13 +24,13 @@
 
 - 🔭 I’m currently working on some personal projects.
   
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning SQL.
   
 - 👯 I’m looking to collaborate on projects (especially Front-End at the moment).
   
-- 💬 Ask me about HTML, CSS, JavaScript.
+- 💬 Ask me about HTML, CSS, JavaScript, Python, Sound Design/Engineering/Composing.
   
-- ⚡ Fun fact: I used to be a music producer.
+- ⚡ Fun fact: I used to be a music producer/engineer.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
